@@ -1,0 +1,150 @@
+body{
+    margin:0px;  
+    width:100%;
+    text-align: center;
+}
+
+#header{
+    width:100%;
+    top:0px;
+    background-color:#FFFFFF;
+    border-top: 3px #FFFFFF;
+}
+
+#video{
+    margin-top:0px;
+    border: 3px white;
+    border-radius: 2em;
+    width: 60%;   
+    padding: 20px;
+    margin-left: 20%;
+    background-color:#FF0000;
+    overflow:auto;
+}
+
+#nav{
+    width:100%;   
+	background-color:#FF0000;
+}
+
+li{
+    display: inline;
+    padding: 2em;
+}
+
+#nav{
+    font-size: 1.5em; 
+    color:#FF0000;
+	font-family: 'Black Ops One', cursive;
+	border-top: 3px red;
+	border-bottom: 3px red;
+}
+
+#nav a{
+    text-decoration: none; 
+    color:#FFFFFF;
+	font-family: 'Black Ops One', cursive;
+}
+
+ul a:hover { 
+    background-color: grey;
+}
+
+ul a{
+	display: inline-block;
+	padding: 14px 16px;
+}
+
+#artikel{
+    width: 200px;
+    height: 440px;
+    border: 1px;
+    padding: 30px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left:50%;
+    margin-top: -20px;
+    color:white;
+    font-family: 'Black Ops One', cursive;
+}
+
+#artike2{
+    width: 200px;
+    height: 440px;
+    border: 1px;
+    padding: 30px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left:68%;
+    margin-top: -500px;
+    color:white;
+    font-family: 'Black Ops One', cursive;
+}
+
+#footer{
+    font-size: 1.5em; 
+    background-color:#FF0000;
+    font-family: 'Black Ops One', cursive;
+    color:#FFFFFF;
+}
+
+#foto1{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    padding: 20px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left: 35%;
+    overflow: auto;
+    margin-top: -520px;
+}
+
+#foto2{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    padding: 20px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left: 35%;
+    overflow: auto;
+    margin-top: 
+}
+
+#foto3{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    padding: 20px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left: 20%;
+    overflow:auto;
+    margin-top: -520px;
+}
+
+#foto4{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    padding: 20px;
+    background-color:#1E90FF;
+    border-radius: 2em;
+    margin-left: 20%;
+    overflow:auto;
+    margin-top: 
+}
+
+#contact{
+    margin-top:0em;
+    border: 3px white;
+    border-radius: 2em;
+    width: 30%;   
+    padding: 80px;
+    margin-left: 30%;
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    font-family: 'Black Ops One', cursive;
+}
+
